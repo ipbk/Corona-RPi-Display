@@ -1,0 +1,5 @@
+requests~=2.24.0
+beautifulsoup4~=4.9.1
+RPi.GPIO~=0.7.0
+Adafruit-Blinka~=5.4.0
+adafruit-circuitpython-charlcd~=3.3.3
